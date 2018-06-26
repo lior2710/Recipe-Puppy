@@ -23,6 +23,6 @@ Components are now loaded async with react-router-loader and the store is inject
 ## Material-UI design
 This projects relays on Metarial-UI components library for general design concepts and edit controls
 
-##Use
+## Use
 Type your search term on order to get the first 20 results from the Recipe Puppy server.
 Note: When you use ',' within your term the REST call will issue an ingredients query otherwise it will be a title query
