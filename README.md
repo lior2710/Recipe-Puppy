@@ -1,6 +1,6 @@
 # Recipe Puppy - Home Exercise
 
-Just `run npm install` and `npm start`, then go to localhost:3003 and your'e good to go :)
+Just run `npm install` and `npm start`, then go to localhost:3003 and your'e good to go :)
 To build, run `npm run build`, and to debug run `npm run debug`, then go to localhost:1234 for the minified production bundle.
 
 ## Initial Usage / Installation
