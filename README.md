@@ -1,20 +1,22 @@
-# Recipe Puppy - Home Exercise
+# Recipe Puppy
 
 Just run `npm install` and `npm start`, then go to localhost:3003 and your'e good to go :)
+
 To build, run `npm run build`, and to debug run `npm run debug`, then go to localhost:1234 for the minified production bundle.
 
 ## Initial Usage / Installation
+
 1. Install node.js
-2. `npm install`
-3. `npm start`
+2. Run `npm install`
+3. Run `npm start`
 4. Navigate to `http://localhost:3003`
 
 ## Build for production
-1. `npm run build`
+1. Run `npm run build`
 2. Navigate to `http://localhost:1234` (for the minified production bundle)
 
 ## Debug in production
-1. `npm run debug`
+1. Run `npm run debug`
 2. Navigate to `http://localhost:1234` (for the un-minified production bundle)
 
 ## Async component loading
